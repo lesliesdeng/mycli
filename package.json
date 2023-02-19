@@ -1,0 +1,30 @@
+{
+  "name": "leslie-cli-admin",
+  "version": "1.2.20",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "q": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "leslie",
+  "license": "MIT",
+  "homepage": "https://gitee.com/leslie_deng/mycli",
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/leslie_deng/mycli"
+  },
+  "dependencies": {
+    "commander": "^6.1.0",
+    "download-git-repo": "^3.0.2",
+    "ejs": "^3.1.5",
+    "inquirer": "^8.2.4",
+    "open": "^7.3.0",
+    "vue3-video-play": "^1.3.1-beta.6"
+  }
+}
